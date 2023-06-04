@@ -22,3 +22,4 @@ The ACO algorithm can be used to optimize weight values in the NSL_KDD dataset t
 ![QwaV4](https://github.com/gamalahmed3265/ACO-Algorithm/assets/75225936/ddf10541-daf2-4501-b3dd-215d15d3c7e4)
 ![swx9oa7srky48vh7n64v](https://github.com/gamalahmed3265/ACO-Algorithm/assets/75225936/a1ac930e-d5a1-4702-8f88-5cea36c1ef59)
 ![image2](https://github.com/gamalahmed3265/ACO-Algorithm/assets/75225936/bc5c982b-11a1-412b-9faa-43af3c5460e7)
+![image30](https://github.com/gamalahmed3265/ACO-Algorithm/assets/75225936/c5991f48-c98f-4af9-91cc-086dcc919518)
