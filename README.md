@@ -17,3 +17,4 @@ Here are the steps on how to optimize weight value by ACO algorithms in dataset 
 8. **Repeat steps 4-7 until a satisfactory solution is found.**
 
 The ACO algorithm can be used to optimize weight values in the NSL_KDD dataset to improve the accuracy of intrusion detection systems.
+()[https://github.com/gamalahmed3265/ACO-Algorithm/blob/main/Flowchart-for-the-ACO-algorithm.png]
